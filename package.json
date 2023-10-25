@@ -1,0 +1,15 @@
+{
+  "name": "my-application-2",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "npx jest --config jest.config.json"
+  },
+  "devDependencies": {
+    "jest": "28.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "moduleDirectories": ["node_modules", "src"],
+  "testEnvironment": "node",
+  "testMatch": ["**/*.test.js"]
+}
